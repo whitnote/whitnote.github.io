@@ -9,7 +9,11 @@ body {
 	font-size: 20px;
 }
 hr {
+<<<<<<< Updated upstream
 	border:1px #fd6e6e solid;
+=======
+	border: 1px #ff0000 solid;
+>>>>>>> Stashed changes
 	margin-left: 1px;
 	width: 35px;
 }
@@ -17,10 +21,15 @@ hr {
 	background: url(images/stripes.png);
 	background-repeat: repeat-x;
 	height: 13px;
+<<<<<<< Updated upstream
 	width:100%;
 	position:absolute;
 	top:0;
 	left:0;
+=======
+	margin: 0 auto auto 0;
+	width: 100%;
+>>>>>>> Stashed changes
 }
 .taasky {
 	color: #ffffff;
