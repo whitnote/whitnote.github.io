@@ -21,7 +21,10 @@ hr {
 	background: url(images/stripes.png);
 	background-repeat: repeat-x;
 	height: 13px;
-	margin: 0 auto auto 0
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
 }
 .taasky {
 	color: #ffffff;
