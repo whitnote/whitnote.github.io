@@ -1,0 +1,28 @@
+
+body {
+	background: url(images/itsbitsbackground2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+h1 {
+	color: #7a31cc;
+	line-height: 48px;
+}
+p {
+	color: #cc8825;
+	line-height: 32px;
+}
+
+#logo {
+	background: url(images/logo.png);
+	background-repeat: no-repeat;
+	height: 80%;
+	width: 80%;
+	position:absolute;
+	top:20;
+	left:20;
+}
+.intro {
+	padding-top: 300px;
+	padding-left: 150px
+}
