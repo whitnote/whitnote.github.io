@@ -1,0 +1,89 @@
+body {
+	
+	background-color: #cca593;	
+}
+
+#container1 {
+	margin: 0 auto;
+	width: 1200px;
+	background: url(images/thePointe-001.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #cca593;
+}
+
+.logo {
+	display: inline-block;
+	width: 485px;
+	margin: 30px 0 0 30px;	
+}
+
+nav {
+	
+	font-family: 'Noto+Sans', sans-serif;
+	font-size: 16px;
+	float: right;
+	height: 100px;
+	padding: 30px 75px 0 0;
+
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+nav a {
+	color: #d2ceff;
+	display: block;
+	float: right;
+	padding: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+nav a:hover {
+	background-color: #d2ecff;
+	color: #cca593;
+	padding: 30px;
+}
+#space {
+	width: 0 auto;
+	padding: 200px 0 0 0;
+
+}
+#container2 {
+	margin: 0 auto;
+	width: 1200px;
+	background: url(images/thePointe-001.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #cca593;
+}
+
+#maincontain {
+	clear: left;
+	margin: 30px auto;
+	width: 600px;
+	padding: 10px 20px;
+	background-color: #ffc392;
+}
+h1 {
+	font-family: 'Noto+Sans', sans-serif;
+	font-size: 48px;
+	line-height: 1.5;
+}
+p {
+	font-family: 'Goudy+Bookletter+1911', serif;
+	font-size: 20px;
+	line-height: 1.1;
+}
+
+footer {
+	font-family: 'Noto+Sans', sans-serif;
+	font-size: 9px;
+	padding: 30px;
+	text-align: right;
+}
+
